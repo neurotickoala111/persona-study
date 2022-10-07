@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight&display=swap');
+
+#site-title {
+    font-family: 'Inter Tight', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+#heading-title {
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 35px;
+}
+
+#heading-title2 {
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 35px;
+    color: white;
+}
+
+#p-text {
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+#p2-text {
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#question-text {
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#p-1 {
+    background-color: #FDE9AF;
+}
+
+#p-2 {
+    background-color: #E5D39D;
+}
+
+#p-3 {
+    background-color: #A59A64;
+}
+
+#p-4 {
+    background-color: #787357;
+}
